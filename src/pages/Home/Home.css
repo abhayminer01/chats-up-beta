@@ -1,0 +1,81 @@
+.Parent{
+    background-color: rgb(219, 222, 224);
+    height: 500px;
+    width: 1300px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    margin: 22px;
+    
+}
+.Child{
+    background-color: rgba(14, 74, 124, 0.979);
+    height: 390px;
+    width: 450px;
+    margin: 55px;
+    margin-left: 450px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+.edit{
+    width: 15px;
+    margin: 5px;
+    margin-top: 15px;
+    
+}
+.icon{
+    width: 30px;
+    margin: 5px;
+    margin-top: 20px;
+}
+.text{
+    color: white;
+    margin: 5px;
+    margin-top: 20px;
+}
+.nickName{
+    display: flex;
+    align-items: center;
+    margin: 12px;
+    margin-left: 155px;
+    
+}
+.container p{
+    color: white;
+    font-size: 14px;
+}
+.buttons{
+    display: flex;
+}
+.male{
+    border-radius: 20px;
+    border-color: transparent;
+    margin: 3px;
+    background-color: rgb(41, 102, 158);
+    color: rgb(156, 154, 151);
+}
+.male:hover{
+    background: white;
+    color: rgba(14, 74, 124, 0.979);
+}
+.female{
+    border-radius: 20px;
+    border-color: transparent;
+    margin: 3px;
+    background-color: rgb(41, 102, 158);
+    color: rgb(156, 154, 151);
+}
+.female:hover{
+    background: white;
+    color: rgba(14, 74, 124, 0.979);
+}
+.other{
+    border-radius: 20px;
+    border-color: transparent;
+    margin: 3px;
+    background-color: rgb(41, 102, 158);
+    color: rgb(156, 154, 151);
+}
+.other:hover{
+    background: white;
+    color: rgba(14, 74, 124, 0.979);
+}
